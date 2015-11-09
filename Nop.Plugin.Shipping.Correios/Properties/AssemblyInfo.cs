@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Nop.Plugin.Shipping.Correios")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Source Code - https://github.com/rfiori/correios-nopcommerce")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Moonland.com.br (Sergio Luiz Miziara Junior)")]
+[assembly: AssemblyCompany("https://github.com/rfiori/correios-nopcommerce")]
 [assembly: AssemblyProduct("Nop.Plugin.Shipping.Correios")]
-[assembly: AssemblyCopyright("Copyright © Moonland, 2011")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.1.1.0")]
-[assembly: AssemblyFileVersion("1.1.1.0")]
+[assembly: AssemblyVersion("1.1.3.60")]
+[assembly: AssemblyFileVersion("1.1.3.60")]
